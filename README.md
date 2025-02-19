@@ -1,2 +1,3 @@
 # SladeTheGhost.github.io 
-#if i write here it should show up on the site
+#writing here does not show up on the site
+#this is for telling people how stuff works
