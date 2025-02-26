@@ -44,6 +44,6 @@ Header 1 | Header 2
 
  [example link](http://example.com/)
 
- ![Blog](/img/logo.png)
+ ![Blog](/img/Logo.png)
 
  execute command `nano`
