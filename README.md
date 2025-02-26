@@ -58,7 +58,3 @@ Header 1 | Header 2
 @@ text in purple (and bold)@@
 -! Warning !-
 
-$thingy$
-$$stuff$$
-`#ffffff`
-`#33ef56`
