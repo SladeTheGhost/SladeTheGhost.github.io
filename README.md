@@ -60,3 +60,5 @@ Header 1 | Header 2
 
 $thingy$
 $$stuff$$
+`#ffffff`
+`#33ef56`
