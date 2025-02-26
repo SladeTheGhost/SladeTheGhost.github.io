@@ -47,3 +47,13 @@ Header 1 | Header 2
  ![Blog](/img/Logo.png)
 
  execute command `nano`
+
+#colour testing 
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+-! Warning !-
